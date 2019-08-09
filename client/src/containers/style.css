@@ -1,0 +1,13 @@
+.my-fieldset {
+  border: 3px solid;
+}
+
+.rcw-conversation-container > .rcw-header {
+  background-color: rgb(78, 79, 78);
+}
+
+.rcw-message > .rcw-response,
+.rcw-launcher {
+  background-color: rgb(7, 163, 122);
+  color: #ffffff;
+}
